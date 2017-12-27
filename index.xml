@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pittsburgh Learning Commons Homepage</title>
+    <link>http://pghlearn.org/</link>
+    <description>Recent content on Pittsburgh Learning Commons Homepage</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Copyright (c) 2018 Pittsburgh Learning Commons; all rights reserved.</copyright>
+    
+	<atom:link href="http://pghlearn.org/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>About</title>
+      <link>http://pghlearn.org/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://pghlearn.org/about/</guid>
+      <description>Mission and History Our mission is “to work with communities to create engaging and inclusive educational opportunities, support community programming, and enhance civic engagement.”
+Pittsburgh Learning Common’s purpose is to provide educational services and community development/vitality programs that enrich the lives of those we serve. By offering engaging educational programs that provide opportunities for hands-on skills training, leadership training, creative thinking and learning, scientific innovation, arts and science blended learning, and spaces for ethical inquiry and deliberation we seek to improve individual&amp;rsquo;s livelihood and community relationships.</description>
+    </item>
+    
+    <item>
+      <title>Contact Us</title>
+      <link>http://pghlearn.org/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://pghlearn.org/contact/</guid>
+      <description>Subscribe to our mailing list      Location Pittsburgh Learning Commons is located at Community Forge in the old Johnston School Elementary building: 1256 Franklin Avenue, Wilkinsburg, PA 15221. If you are visiting, parking is located in the building side lots off of Franklin Avenue.
+Get Involved Volunteer and Intern We are continually looking for volunteers to support our programs and bring new opportunities to our youth.</description>
+    </item>
+    
+    <item>
+      <title>Donate</title>
+      <link>http://pghlearn.org/donate/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://pghlearn.org/donate/</guid>
+      <description>Your donation makes a difference! Pittsburgh Learning Commons aims to offer a unique, youth-directed space with programming that our kids help shape. Your donation makes it possible for us to:
+ Offer scholarships into our programs Run free programs for kids in Wilkinsburg Build a youth-directed fund for projects and programming that they want Staff and run our general operations  Donate Online Today through Paypal.
+ You can mail checks to:</description>
+    </item>
+    
+    <item>
+      <title>Events</title>
+      <link>http://pghlearn.org/events/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://pghlearn.org/events/</guid>
+      <description>January 18th, 4-6pm - Open House We will be hosting an open house for Pittsburgh Learning Commons to introduce our programming for the winter and hear your input on programs to bring to our space. Activities will include steelpan, science experiments, and chess.
+January 22nd - February 17th, Tuesdays and Thursdays 3-6pm Afterschool Series We are running a 5-week pilot youth program where youth (3rd-8th grade) will explore science, technology, and the arts.</description>
+    </item>
+    
+    <item>
+      <title>Get Involved</title>
+      <link>http://pghlearn.org/involve/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://pghlearn.org/involve/</guid>
+      <description>Calendar Insert a calendar here!</description>
+    </item>
+    
+    <item>
+      <title>Programs</title>
+      <link>http://pghlearn.org/programs/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://pghlearn.org/programs/</guid>
+      <description>Pittsburgh Learning Commons aims to support a wide-range of programs for learners of all ages, 8-80, in gaining skills and knowledge across science, technology, arts, and civics.
+Afterschool We will be running regular afterschool series in the spring and fall semesters. We are starting with a pilot program that will be foundational in shaping future learning opportunities, starting January 22nd, 2018.
+Pilot Afterschool Series Date(s): 1/23/2018 - 2/27/2018 Time: Tuesdays and Thursdays, 3-5pm (drop off starts 2:30; optional dinner and games 5-6p) Location: Community Forge at the old Johnston Elementary School 1256 Franklin Avenue, Wilkinsburg, PA 15221 Cost: $100 (full and partial scholarships available) Age: 3rd-8th grade</description>
+    </item>
+    
+  </channel>
+</rss>
